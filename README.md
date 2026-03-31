@@ -1,5 +1,5 @@
 # Depalletleverancier-Tool
-[index (3).html](https://github.com/user-attachments/files/26382304/index.3.html)
+
 <!DOCTYPE html>
 <html lang="nl">
 <head>
